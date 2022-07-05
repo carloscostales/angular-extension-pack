@@ -1,0 +1,45 @@
+{
+    "name": "angular-extensionpack-carlos",
+    "version": "0.0.1",
+    "publisher": "carloscostales",
+    "displayName": "Angular Extension Pack",
+    "description": "Pack de extensiones para proyectos con Angular",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "1tontech.angular-material", 
+        "alexiv.vscode-angular2-files", 
+        "Angular.ng-template", 
+        "christian-kohler.path-intellisense", 
+        "cyrilletuzi.angular-schematics", 
+        "dbaeumer.vscode-eslint", 
+        "donjayamanne.githistory", 
+        "eamodio.gitlens", 
+        "EditorConfig.EditorConfig", 
+        "esbenp.prettier-vscode", 
+        "formulahendry.auto-close-tag", 
+        "formulahendry.auto-rename-tag", 
+        "infinity1207.angular2-switcher", 
+        "john-crowson.angular-file-changer", 
+        "johnpapa.Angular2", 
+        "obenjiro.arrr", 
+        "PKief.material-icon-theme", 
+        "quicktype.quicktype", 
+        "rbbit.typescript-hero", 
+        "rctay.karma-problem-matcher", 
+        "ritwickdey.LiveServer", 
+        "segerdekort.angular-cli", 
+        "SimonTest.simontest", 
+        "steoates.autoimport", 
+        "stringham.move-ts", 
+        "VisualStudioExptTeam.vscodeintellicode"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/carloscostales/vscode-angular-pack"
+    }
+}
